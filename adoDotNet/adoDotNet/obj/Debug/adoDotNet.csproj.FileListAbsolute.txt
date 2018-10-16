@@ -1,0 +1,7 @@
+F:\adodotNet\adoDotNet\adoDotNet\bin\Debug\adoDotNet.exe.config
+F:\adodotNet\adoDotNet\adoDotNet\bin\Debug\adoDotNet.exe
+F:\adodotNet\adoDotNet\adoDotNet\bin\Debug\adoDotNet.pdb
+F:\adodotNet\adoDotNet\adoDotNet\obj\Debug\adoDotNet.csprojAssemblyReference.cache
+F:\adodotNet\adoDotNet\adoDotNet\obj\Debug\adoDotNet.csproj.CoreCompileInputs.cache
+F:\adodotNet\adoDotNet\adoDotNet\obj\Debug\adoDotNet.exe
+F:\adodotNet\adoDotNet\adoDotNet\obj\Debug\adoDotNet.pdb
